@@ -10,19 +10,19 @@
 
 我想：多一分对科学知识和真相的了解，就少一分危险与无谓的恐惧。愿我们早日战胜疫情！向各行各业奋战在抗疫前线的同胞们、朋友们致敬！武汉加油！中国加油！！！🇨🇳
 
-##【疫情追踪】
+## 一、【疫情追踪】
 
 1. [新型冠状病毒肺炎实时追踪](https://news.qq.com/zt2020/page/feiyan.htm)
 
 2. [新型冠状病毒肺炎分布小区查询](https://ncov.html5.qq.com/community?channelid=85)
 
-##【谣言查证】
+## 二、【谣言查证】
 
 1. [腾讯出品的较真查证平台](https://vp.fact.qq.com/home) 
 
 辟了很多谣言，对于不太清楚真伪的信息，可以上这个平台查一查～
 
-##【医疗救治】
+## 三、【医疗救治】
 
 1. [各地医疗救治医院查询](https://news.qq.com/zt2020/page/feiyan.htm#prevent)
 
@@ -30,7 +30,7 @@
 
 注：诊疗方案在陆续更新版本，请及时关注国家卫健委的最新文件（http://www.nhc.gov.cn/wjw/gfxwjj/list.shtml）
 
-##【传播途径】
+## 四、【传播途径】
 
 1. [新冠肺炎传播途径](https://www.thepaper.cn/newsDetail_forward_5862601)
 
@@ -42,13 +42,13 @@
 
 - **接触传播是指飞沫沉积在物品表面，接触污染手后，再接触口腔、鼻腔、眼睛等粘膜，导致感染。**
 
-##【病毒灭活】
+## 五、【病毒灭活】
 
 1. 根据《新型冠状病毒肺炎防控方案（第四版）》（http://www.nhc.gov.cn/jkj/s3577/202002/573340613ab243b3a7f61df260551dd4/files/c791e5a7ea5149f680fdcb34dac0f54e.pdf）
 
 新型冠状病毒属于β属的冠状病毒，基因特征与 SARSr-CoV和 MERSr-CoV 有明显区别。**病毒对紫外线和热敏感，56℃ 30 分钟、乙醚、75%乙醇、含氯消毒剂、过氧乙酸和氯仿等脂溶剂均可有效灭活病毒。基于目前的流行病学调查和研究结果，潜伏期为 1-14 天，多为 3-7 天；传染源主要是新型冠状病毒感染的患者，无症状感染者也可能成为传染源。**
 
-##【科学戴摘口罩】
+## 六、【科学戴摘口罩】
 
 1. [戴口罩你会吗，科学戴口罩的方法，马上告诉你，你能学会吗](https://www.bilibili.com/video/av85691105/)
 
@@ -62,7 +62,7 @@
 
 视频讲解
 
-##【口罩预约购买】
+## 七、【口罩预约购买】
 
 1. [全国40多地口罩预约购买入口！](https://mp.weixin.qq.com/s/yPGWKiB4pRBk3UInpAfmMw)
 
@@ -157,13 +157,13 @@
 天津张家窝镇口
 
 
-##【科学洗手】
+## 八、【科学洗手】
 
 1. [北京协和医院告诉你如何正确掌握《七步洗手法》，快里学学吧！](https://haokan.baidu.com/v?vid=4642099764798352078&pd=bjh&fr=bjhauthor&type=video)
 
 视频详细演示
 
-##【正能量】
+## 九、【暖心故事】
 
 1. [武汉呼吸科医生：余昌平医生讲述从被感染到康复的亲身经历](https://www.bilibili.com/video/av86989861/?redirectFrom=h5)
 
@@ -173,21 +173,22 @@
 
 每一个故事都暖心～
 
-##【防护书籍】
+3. [从确诊到康复，一个医学研究生的生死10天](https://mp.weixin.qq.com/s/N1jDooSKnf2dJrDaHoqCWA)
+
+## 十、【防护书籍】
 
 1. [根据湖北科学技术出版社的《新型冠状病毒肺炎预防手册》制作的思维导图](https://www.processon.com/view/5e2d2e8ee4b0781d52af66e3?fromnew=1#map)
 
 2. [微信读书：广东科技出版社《新型冠状病毒感染防护》](https://weread.qq.com/web/reader/5b232b8071a8e5585b2b5a3kc81322c012c81e728d9d180)
 
-##【求助】
+## 十一、【求助】
 
 1. [人民日报为新型冠状病毒感染肺炎求助者提供求助通道](https://activity.peopleapp.com/qiuzhutongdao/?from=timeline&isappinstalled=0)
 
-##【其它】
+## 十二、【其它】
 
 [华农：从穿山甲中分离出的毒株与新冠毒株相似度达99%](https://static.cdsb.com/micropub/Articles/202002/6edaa2602ee58414f8f7071d545f0bb9.html?wxopenid=oBCTzjnukE_pcDcPiEbljIZEEgd0&from=timeline)
 
+## 【欢迎共享】
 
-##【值得注意的是】
-
-我们对于新型冠状病毒的认识还在不断加深，陆续更会有更多有价值的信息释出。欢迎各位贡献补充、指正！
+值得注意的是，当前我们对于新型冠状病毒的认识还在不断加深，陆续更会有更多有价值的信息释出。欢迎各位贡献补充、指正！
